@@ -34,5 +34,3 @@
 * git push -u origin main
 * git branch -M main  
 * git remote add origin (ссылка)
-
-
