@@ -1,4 +1,6 @@
-# Инструкцыя команд в GIT 
+# Инструкцыя команд в GIT
+
+* 1 Элемент
 
 ##  Инструкция по GITHUB
 
@@ -50,4 +52,4 @@
 * git push -u origin main
 * git branch -M main  
 * git remote add origin (ссылка)
-что то еще 
+
