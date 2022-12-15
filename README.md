@@ -46,7 +46,6 @@
 * git checkout lists
 * git push origin develop  
 * git push origin main
-* cd .\expert-octo-train\  
 * git push –help
 * git push -u origin main
 * git branch -M main  
